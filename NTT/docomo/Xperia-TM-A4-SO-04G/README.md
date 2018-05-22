@@ -1,6 +1,13 @@
 Xperia（TM） A4 SO-04G
 ======================
 
+---
+layout: post
+title: "Xperia（TM） A4 SO-04G"
+categories: docomo
+date: "2017-01-10"
+---
+
 [ドコモオンラインショップ | NTTドコモ](https://www.mydocomo.com/onlineshop/products/smart_phone/SO04G.html)
 
 価格
@@ -27,9 +34,9 @@ Xperia（TM） A4 SO-04G
 [家族まとめて割](https://www.mydocomo.com/onlineshop/campaign/campaign_detail.html?campaign_code=family_matometewari)
 --------------
 ### 特典1
-#### 新規契約／MNP 
+#### 新規契約／MNP
 -10,800 円
-#### 機種変更 
+#### 機種変更
 -5,400 円
 ### 特典2
 #### シェアパック15 ～ 30
