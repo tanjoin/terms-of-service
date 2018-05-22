@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Google Chrome 利用規約"
+categories: google
+date: "2018-02-17"
+---
+
 Google Chrome 利用規約
 
 本利用規約は、実行コード バージョンの Google Chrome に適用されます。Google Chrome のソース コードは、http://code.google.com/chromium/terms.html のオープンソース ソフトウェア ライセンスに基づき、無料でご利用いただけます。

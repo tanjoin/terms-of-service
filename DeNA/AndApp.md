@@ -1,3 +1,10 @@
+---
+layout: post
+title: "AndAppユーザ規約"
+categories: DeNA
+date: "2017-12-02"
+---
+
 AndAppユーザ規約
 
 第1条　AndAppユーザ資格

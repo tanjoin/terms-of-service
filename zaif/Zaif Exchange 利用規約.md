@@ -2,7 +2,7 @@
 layout: post
 title: "Zaif Exchange 利用規約"
 categories: Zaif
-date: "2018-05-22"
+date: "2018-04-16"
 ---
 
 Zaif Exchange 利用規約
