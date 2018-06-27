@@ -28,6 +28,8 @@
   - [KONAMI 個人情報等の取扱いについて](KONAMI/KONAMI 個人情報等の取扱いについて.md)
   - [KONAMI 個人情報等保護方針](KONAMI/KONAMI 個人情報等保護方針.md)
   - [コナミカードゲームネットワーク利用規約](KONAMI/コナミカードゲームネットワーク利用規約.md)
+- Kyash
+  - [Kyashプラットフォーム利用規約](Kyash/Kyashプラットフォーム利用規約.md)
 - LAWSON
   - [LAWSON プライバシーポリシー](LAWSON/LAWSON プライバシーポリシー.md)
 - LINE
@@ -64,6 +66,7 @@
   - [My SoftBank利用規約](Softbank/My SoftBank利用規約.md)
   - [とくするアンケート 利用規約](Softbank/とくするアンケート 利用規約.md)
 - Twitter
+  - [Twitterルール](Twitter/Twitterルール.md)
   - [プライバシポリシー](Twitter/プライバシポリシー.md)
   - [利用規約](Twitter/利用規約.md)
 - Wacom
@@ -81,6 +84,8 @@
   - [プライバシーポリシー](bitFlyer/プライバシーポリシー.md)
   - [仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面](bitFlyer/仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面.md)
   - [仮想通貨取引におけるリスク](bitFlyer/仮想通貨取引におけるリスク.md)
+- rakuten
+  - [楽天ポイントカード利用規約](rakuten/楽天ポイントカード利用規約.md)
 - zaif
   - [Zaif Exchange 利用規約](zaif/Zaif Exchange 利用規約.md)
   - [Zaif Payment加盟店利用規約](zaif/Zaif Payment加盟店利用規約.md)
