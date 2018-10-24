@@ -2,7 +2,7 @@
 layout: post
 title: "伊藤園Web会員規約"
 categories: 伊藤園
-date: "2018-02-12"
+date: "2017-07-03"
 ---
 
 キャンペーン応募の前に
