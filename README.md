@@ -6,6 +6,9 @@
 
 - CCC
   - [スマホサイフサービス利用規約](CCC/スマホサイフサービス利用規約.md)
+- Yahoo!
+  - [利用規約 \- Yahoo\!ウォレット](https://money.wallet.yahoo.co.jp/other/policy.html#pt_light)
+  - 
 - DeNA
   - [AndApp](DeNA/AndApp.md)
 - FOTS JAPAN
