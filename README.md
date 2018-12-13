@@ -6,74 +6,84 @@
 
 - CCC
   - [スマホサイフサービス利用規約](CCC/スマホサイフサービス利用規約.md)
-- Yahoo!
-  - [利用規約 \- Yahoo\!ウォレット](https://money.wallet.yahoo.co.jp/other/policy.html#pt_light)
-  - 
 - DeNA
   - [AndApp](DeNA/AndApp.md)
 - FOTS JAPAN
   - [ご利用規約](FOTS JAPAN/ご利用規約.md)
 - Google
+  - [AdSense](Google/AdSense.md)
   - [Chrome](Google/Chrome.md)
+  - [GOOGLE プライバシー ポリシー](Google/GOOGLE%20プライバシー ポリシー.md)
+  - [GOOGLE 利用規約](Google/GOOGLE%20利用規約.md)
 - JR
   - JRE POINT
-    - [JRE POINT会員規約](JR/JRE POINT/JRE POINT会員規約.md)
+    - [JRE POINT会員規約](JR/JRE POINT/JRE%20POINT会員規約.md)
   - Suica
+    - [Suicaインターネットサービス利用規約](JR/Suica/Suicaインターネットサービス利用規約.md)
     - [東日本旅客鉄道株式会社ICカード乗車券取扱規則](JR/Suica/東日本旅客鉄道株式会社ICカード乗車券取扱規則.md)
   - ビューカード
-    - [VIEW's NET利用規約](JR/ビューカード/VIEW's NET利用規約.md)
+    - [VIEW's NET利用規約](JR/ビューカード/VIEW's%20NET利用規約.md)
     - [Web明細ポイントサービス特約](JR/ビューカード/Web明細ポイントサービス特約.md)
-    - [ビューカード 個人情報の取扱いに関する重要事項](JR/ビューカード/ビューカード 個人情報の取扱いに関する重要事項.md)
+    - [ビューカード 個人情報の取扱いに関する重要事項](JR/ビューカード/ビューカード%20個人情報の取扱いに関する重要事項.md)
     - [ビューカード会員規約](JR/ビューカード/ビューカード会員規約.md)
     - [ビューカード会員規約リンク](JR/ビューカード/ビューカード会員規約リンク.md)
 - KONAMI
-  - [KONAMI ID 利用規約](KONAMI/KONAMI ID 利用規約.md)
-  - [KONAMI 個人情報等の取扱いについて](KONAMI/KONAMI 個人情報等の取扱いについて.md)
-  - [KONAMI 個人情報等保護方針](KONAMI/KONAMI 個人情報等保護方針.md)
+  - [KONAMI ID 利用規約](KONAMI/KONAMI%20ID 利用規約.md)
+  - [KONAMI 個人情報等の取扱いについて](KONAMI/KONAMI%20個人情報等の取扱いについて.md)
+  - [KONAMI 個人情報等保護方針](KONAMI/KONAMI%20個人情報等保護方針.md)
   - [コナミカードゲームネットワーク利用規約](KONAMI/コナミカードゲームネットワーク利用規約.md)
 - Kyash
   - [Kyashプラットフォーム利用規約](Kyash/Kyashプラットフォーム利用規約.md)
 - LAWSON
-  - [LAWSON プライバシーポリシー](LAWSON/LAWSON プライバシーポリシー.md)
+  - [LAWSON プライバシーポリシー](LAWSON/LAWSON%20プライバシーポリシー.md)
 - LINE
-  - [LINE Cashアカウント利用規約](LINE/LINE Cashアカウント利用規約.md)
-  - [LINE Moneyアカウント利用規約](LINE/LINE Moneyアカウント利用規約.md)
-  - [LINE Pay プライバシー追加項目](LINE/LINE Pay プライバシー追加項目.md)
-  - [LINE Payクレジットカードサービス利用規約](LINE/LINE Payクレジットカードサービス利用規約.md)
+  - [LINE Cashアカウント利用規約](LINE/LINE%20Cashアカウント利用規約.md)
+  - [LINE Moneyアカウント利用規約](LINE/LINE%20Moneyアカウント利用規約.md)
+  - [LINE Pay プライバシー追加項目](LINE/LINE%20Pay プライバシー追加項目.md)
+  - [LINE Payクレジットカードサービス利用規約](LINE/LINE%20Payクレジットカードサービス利用規約.md)
   - [LINEお年玉](LINE/LINEお年玉.md)
   - [LINEグリーンウィーク](LINE/LINEグリーンウィーク.md)
   - [プライバシーポリシー](LINE/プライバシーポリシー.md)
 - NTT
   - [「Ｗｅｂビリング」ご利用規約](NTT/「Ｗｅｂビリング」ご利用規約.md)
   - docomo
-    - [arrows Be F-05Jご購入にあたっての注意事項](NTT/docomo/arrows Be F-05Jご購入にあたっての注意事項.md)
+    - [arrows Be F-05Jご購入にあたっての注意事項](NTT/docomo/arrows%20Be F-05Jご購入にあたっての注意事項.md)
     - [ご利用規約](NTT/docomo/ご利用規約.md)
+    - [ずっとドコモ割プラス（dポイント進呈）選択オプションの注意事項](NTT/docomo/ずっとドコモ割プラス（dポイント進呈）選択オプションの注意事項.md)
     - [セキュリティコードによる認証について](NTT/docomo/セキュリティコードによる認証について.md)
     - [デジタルdポイントカード特約](NTT/docomo/デジタルdポイントカード特約.md)
+    - [今回のみ、過去の料金明細を発行 注意事項](NTT/docomo/今回のみ、過去の料金明細を発行%20注意事項.md)
     - [支払方法の変更の注意事項](NTT/docomo/支払方法の変更の注意事項.md)
+    - [毎月の料金明細を定期発行に関する利用規約](NTT/docomo/毎月の料金明細を定期発行に関する利用規約.md)
     - [｢ドコモオンライン手続き｣ご利用規約](NTT/docomo/｢ドコモオンライン手続き｣ご利用規約.md)
+    - HUAWEI-P20-Pro_HW-01K-Midnight_Blue
+      - [ご購入にあたってのご確認](NTT/docomo/HUAWEI-P20-Pro_HW-01K-Midnight_Blue/ご購入にあたってのご確認.md)
+      - [個人信用情報機関への個人信用情報の照会・提供に関して](NTT/docomo/HUAWEI-P20-Pro_HW-01K-Midnight_Blue/個人信用情報機関への個人信用情報の照会・提供に関して.md)
+      - [割賦販売契約約款](NTT/docomo/HUAWEI-P20-Pro_HW-01K-Midnight_Blue/割賦販売契約約款.md)
+      - [各種お申込サービスの規約](NTT/docomo/HUAWEI-P20-Pro_HW-01K-Midnight_Blue/各種お申込サービスの規約.md)
+      - [月々サポートに関する注意事項](NTT/docomo/HUAWEI-P20-Pro_HW-01K-Midnight_Blue/月々サポートに関する注意事項.md)
     - Nexus5X
       - [割賦販売契約約款](NTT/docomo/Nexus5X/割賦販売契約約款.md)
       - [月々サポート対象機種ご購入にあたっての注意事項](NTT/docomo/Nexus5X/月々サポート対象機種ご購入にあたっての注意事項.md)
     - V20 PRO L-01J-Titan
       - [ご注意事項および端末購入サポート規約](NTT/docomo/V20 PRO L-01J-Titan/ご注意事項および端末購入サポート規約.md)
-      - [ご購入前のご確認事項 ](NTT/docomo/V20 PRO L-01J-Titan/ご購入前のご確認事項 .md)
+      - [ご購入前のご確認事項 ](NTT/docomo/V20 PRO L-01J-Titan/ご購入前のご確認事項%20.md)
       - [開通前のご確認事項](NTT/docomo/V20 PRO L-01J-Titan/開通前のご確認事項.md)
     - iPad Pro 10.5 64GB
       - [お申込みサービス規約](NTT/docomo/iPad Pro 10.5 64GB/お申込みサービス規約.md)
       - [割賦販売契約約款](NTT/docomo/iPad Pro 10.5 64GB/割賦販売契約約款.md)
       - [月々サポート対象機種ご購入にあたっての注意事項](NTT/docomo/iPad Pro 10.5 64GB/月々サポート対象機種ご購入にあたっての注意事項.md)
   - dカード
-    - [dカード　Apple Pay特約](NTT/dカード/dカード　Apple Pay特約.md)
+    - [dカード　Apple Pay特約](NTT/dカード/dカード　Apple%20Pay特約.md)
 - Softbank
-  - [My SoftBank利用規約](Softbank/My SoftBank利用規約.md)
-  - [とくするアンケート 利用規約](Softbank/とくするアンケート 利用規約.md)
+  - [My SoftBank利用規約](Softbank/My%20SoftBank利用規約.md)
+  - [とくするアンケート 利用規約](Softbank/とくするアンケート%20利用規約.md)
 - Twitter
   - [Twitterルール](Twitter/Twitterルール.md)
   - [プライバシポリシー](Twitter/プライバシポリシー.md)
   - [利用規約](Twitter/利用規約.md)
 - Wacom
-  - [Wacom 製品登録・ソフトウェア・サービスダウンロードダウンロードフォームへの個人情報のご記入に関する通知事項](Wacom/Wacom 製品登録・ソフトウェア・サービスダウンロードダウンロードフォームへの個人情報のご記入に関する通知事項.md)
+  - [Wacom 製品登録・ソフトウェア・サービスダウンロードダウンロードフォームへの個人情報のご記入に関する通知事項](Wacom/Wacom%20製品登録・ソフトウェア・サービスダウンロードダウンロードフォームへの個人情報のご記入に関する通知事項.md)
 - Wantedly
   - [Wantedlyプライバシーポリシー](Wantedly/Wantedlyプライバシーポリシー.md)
   - [Wantedly利用規約](Wantedly/Wantedly利用規約.md)
@@ -81,34 +91,40 @@
   - [IRメール配信登録でＴポイント5ポイント](Yahoo/IRメール配信登録でＴポイント5ポイント.md)
   - [IRメール配信登録でＴポイント5ポイント（キャンペーン）](Yahoo/IRメール配信登録でＴポイント5ポイント（キャンペーン）.md)
   - YJFX
-    - [「FXアプリ-Desktop Cymo」ご利用条件](Yahoo/YJFX/「FXアプリ-Desktop Cymo」ご利用条件.md)
+    - [「FXアプリ-Desktop Cymo」ご利用条件](Yahoo/YJFX/「FXアプリ-Desktop%20Cymo」ご利用条件.md)
 - bitFlyer
   - [ご利用規約](bitFlyer/ご利用規約.md)
   - [プライバシーポリシー](bitFlyer/プライバシーポリシー.md)
-  - [仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面](bitFlyer/仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面.md)
+  - [仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面](bitFlyer/仮想通貨交換業者に関する内閣府令第%2016 条および第 17 条に基づく説明書面.md)
   - [仮想通貨取引におけるリスク](bitFlyer/仮想通貨取引におけるリスク.md)
+- moneyforward
+  - [マネーフォワード ME プレミアムサービス利用規約](moneyforward/マネーフォワード%20ME プレミアムサービス利用規約.md)
+  - [特定商取引に関する法律に基づく表記](moneyforward/特定商取引に関する法律に基づく表記.md)
+- radiko.jp
+  - [ユーザー規約・会員規約](radiko.jp/ユーザー規約・会員規約.md)
 - rakuten
   - [楽天ポイントカード利用規約](rakuten/楽天ポイントカード利用規約.md)
 - zaif
-  - [Zaif Exchange 利用規約](zaif/Zaif Exchange 利用規約.md)
-  - [Zaif Payment加盟店利用規約](zaif/Zaif Payment加盟店利用規約.md)
+  - [Zaif Exchange 利用規約](zaif/Zaif%20Exchange 利用規約.md)
+  - [Zaif Payment加盟店利用規約](zaif/Zaif%20Payment加盟店利用規約.md)
   - [Zaifコイン積立について](zaif/Zaifコイン積立について.md)
-  - [Zaif紹介プログラム 利用規約](zaif/Zaif紹介プログラム 利用規約.md)
+  - [Zaif紹介プログラム 利用規約](zaif/Zaif紹介プログラム%20利用規約.md)
   - [チャット利用のガイドライン](zaif/チャット利用のガイドライン.md)
   - [ビットコインAirFXについて](zaif/ビットコインAirFXについて.md)
   - [プライバシーポリシー](zaif/プライバシーポリシー.md)
   - [信用取引について](zaif/信用取引について.md)
+  - [債務及び契約の承継のご承諾のお願い](zaif/債務及び契約の承継のご承諾のお願い.md)
   - [勧誘方針](zaif/勧誘方針.md)
   - [反社会的勢力による被害の防止に関する基本方針](zaif/反社会的勢力による被害の防止に関する基本方針.md)
   - [当社サービスに関するご説明](zaif/当社サービスに関するご説明.md)
   - [現物取引及び簡単売買について](zaif/現物取引及び簡単売買について.md)
 - アニプレックス
-  - [きららファンタジア 事前登録規約](アニプレックス/きららファンタジア 事前登録規約.md)
+  - [きららファンタジア 事前登録規約](アニプレックス/きららファンタジア%20事前登録規約.md)
 - アークミール
   - [アークミール会員サイト　ご利用規約](アークミール/アークミール会員サイト　ご利用規約.md)
 - サントリー
-  - [サントリー伊右衛門 無料クーポンプレゼント！ ご利用規約](サントリー/サントリー伊右衛門 無料クーポンプレゼント！ ご利用規約.md)
-  - [サントリー伊右衛門 無料クーポンプレゼント！ 個人情報の取り扱いについて](サントリー/サントリー伊右衛門 無料クーポンプレゼント！ 個人情報の取り扱いについて.md)
+  - [サントリー伊右衛門 無料クーポンプレゼント！ ご利用規約](サントリー/サントリー伊右衛門%20無料クーポンプレゼント！ ご利用規約.md)
+  - [サントリー伊右衛門 無料クーポンプレゼント！ 個人情報の取り扱いについて](サントリー/サントリー伊右衛門%20無料クーポンプレゼント！ 個人情報の取り扱いについて.md)
 - シネマシティ
   - [シネマシティWeb予約利用規約](シネマシティ/シネマシティWeb予約利用規約.md)
 - セゾンカード
@@ -117,12 +133,12 @@
   - セブン-イレブン
     - [オムニ７会員規約](セブンアンドアイホールディングス/セブン-イレブン/オムニ７会員規約.md)
     - [セブン-イレブンアプリ利用規約](セブンアンドアイホールディングス/セブン-イレブン/セブン-イレブンアプリ利用規約.md)
-    - [セブン‐イレブン プライバシーポリシー](セブンアンドアイホールディングス/セブン-イレブン/セブン‐イレブン プライバシーポリシー.md)
+    - [セブン‐イレブン プライバシーポリシー](セブンアンドアイホールディングス/セブン-イレブン/セブン‐イレブン%20プライバシーポリシー.md)
     - [プレミアムライフ向上委員会会員規約](セブンアンドアイホールディングス/セブン-イレブン/プレミアムライフ向上委員会会員規約.md)
 - ビックカメラ
   - [ビックポイントカードご利用規約](ビックカメラ/ビックポイントカードご利用規約.md)
 - 京アニ
-  - [京アニショップ！ 利用規約](京アニ/京アニショップ！ 利用規約.md)
+  - [京アニショップ！ 利用規約](京アニ/京アニショップ！%20利用規約.md)
 - 任天堂
   - [ニンテンドーアカウントプライバシーポリシー](任天堂/ニンテンドーアカウントプライバシーポリシー.md)
   - [ニンテンドーアカウント利用規約](任天堂/ニンテンドーアカウント利用規約.md)
@@ -133,7 +149,6 @@
 - 東京都交通局
   - [東京都交通局ポイントサービス会員規約](東京都交通局/東京都交通局ポイントサービス会員規約.md)
 - 松竹
-  - [SMT Members　新規会員登録](松竹/SMT Members　新規会員登録.md)
+  - [SMT Members　新規会員登録](松竹/SMT%20Members　新規会員登録.md)
 - 郵便局
-  - [e転居 利用確認](郵便局/e転居 利用確認.md)
-
+  - [e転居 利用確認](郵便局/e転居%20利用確認.md)
