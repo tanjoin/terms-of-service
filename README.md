@@ -25,7 +25,7 @@
 - DeNA
   - [AndApp](DeNA/AndApp.md)
 - FOTS JAPAN
-  - [ご利用規約](FOTS JAPAN/ご利用規約.md)
+  - [ご利用規約](FOTS%20JAPAN/ご利用規約.md)
 - Google
   - [AdSense](Google/AdSense.md)
   - [Chrome](Google/Chrome.md)
@@ -35,7 +35,7 @@
     - [利用規約](Google/Youtube/利用規約.md)
 - JR
   - JRE POINT
-    - [JRE POINT会員規約](JR/JRE POINT/JRE%20POINT会員規約.md)
+    - [JRE POINT会員規約](JR/JRE%20POINT/JRE%20POINT会員規約.md)
   - Suica
     - [Suicaインターネットサービス利用規約](JR/Suica/Suicaインターネットサービス利用規約.md)
     - [東日本旅客鉄道株式会社ICカード乗車券取扱規則](JR/Suica/東日本旅客鉄道株式会社ICカード乗車券取扱規則.md)
@@ -84,13 +84,13 @@
       - [割賦販売契約約款](NTT/docomo/Nexus5X/割賦販売契約約款.md)
       - [月々サポート対象機種ご購入にあたっての注意事項](NTT/docomo/Nexus5X/月々サポート対象機種ご購入にあたっての注意事項.md)
     - V20 PRO L-01J-Titan
-      - [ご注意事項および端末購入サポート規約](NTT/docomo/V20 PRO L-01J-Titan/ご注意事項および端末購入サポート規約.md)
-      - [ご購入前のご確認事項 ](NTT/docomo/V20 PRO L-01J-Titan/ご購入前のご確認事項%20.md)
-      - [開通前のご確認事項](NTT/docomo/V20 PRO L-01J-Titan/開通前のご確認事項.md)
+      - [ご注意事項および端末購入サポート規約](NTT/docomo/V20%20PRO%20L-01J-Titan/ご注意事項および端末購入サポート規約.md)
+      - [ご購入前のご確認事項 ](NTT/docomo/V20%20PRO%20L-01J-Titan/ご購入前のご確認事項%20.md)
+      - [開通前のご確認事項](NTT/docomo/V20%20PRO%20L-01J-Titan/開通前のご確認事項.md)
     - iPad Pro 10.5 64GB
-      - [お申込みサービス規約](NTT/docomo/iPad Pro 10.5 64GB/お申込みサービス規約.md)
-      - [割賦販売契約約款](NTT/docomo/iPad Pro 10.5 64GB/割賦販売契約約款.md)
-      - [月々サポート対象機種ご購入にあたっての注意事項](NTT/docomo/iPad Pro 10.5 64GB/月々サポート対象機種ご購入にあたっての注意事項.md)
+      - [お申込みサービス規約](NTT/docomo/iPad%20Pro%2010.5%2064GB/お申込みサービス規約.md)
+      - [割賦販売契約約款](NTT/docomo/iPad%20Pro%2010.5%2064GB/割賦販売契約約款.md)
+      - [月々サポート対象機種ご購入にあたっての注意事項](NTT/docomo/iPad%20Pro%2010.5%2064GB/月々サポート対象機種ご購入にあたっての注意事項.md)
   - dカード
     - [Member's Menu特約（旧Member's ID特約）](NTT/dカード/Member's%20Menu特約（旧Member's%20ID特約）.md)
     - [dカード　Apple Pay特約](NTT/dカード/dカード　Apple%20Pay特約.md)
