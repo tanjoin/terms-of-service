@@ -4,9 +4,9 @@
 
 ## 目次
 
-- [Google Play デベロッパー販売 ／ 配布契](Google%20Play デベロッパー販売 ／ 配布契.md)
-- [Microsoft Outlook - Standalone (free) Use Terms - Japanese](Microsoft%20Outlook - Standalone %28free%29 Use Terms - Japanese.md)
-- [TOKYO 2020 CARD 会員規約等](TOKYO%202020 CARD 会員規約等.md)
+- [Google Play デベロッパー販売 ／ 配布契](Google%20Play%20デベロッパー販売%20／%20配布契.md)
+- [Microsoft Outlook - Standalone (free) Use Terms - Japanese](Microsoft%20Outlook%20-%20Standalone%20%28free%29%20Use%20Terms%20-%20Japanese.md)
+- [TOKYO 2020 CARD 会員規約等](TOKYO%202020%20CARD%20会員規約等.md)
 - [TOKYO2020 個人情報保護方針](TOKYO2020%20個人情報保護方針.md)
 - [TOKYO2020 東京2020大会組織委員会公式サイト・サービス利用規約（利用規約）](TOKYO2020%20東京2020大会組織委員会公式サイト・サービス利用規約（利用規約）.md)
 - [VpassID規約](VpassID規約.md)
@@ -29,7 +29,7 @@
 - Google
   - [AdSense](Google/AdSense.md)
   - [Chrome](Google/Chrome.md)
-  - [GOOGLE プライバシー ポリシー](Google/GOOGLE%20プライバシー ポリシー.md)
+  - [GOOGLE プライバシー ポリシー](Google/GOOGLE%20プライバシー%20ポリシー.md)
   - [GOOGLE 利用規約](Google/GOOGLE%20利用規約.md)
   - Youtube
     - [利用規約](Google/Youtube/利用規約.md)
@@ -46,7 +46,7 @@
     - [ビューカード会員規約](JR/ビューカード/ビューカード会員規約.md)
     - [ビューカード会員規約リンク](JR/ビューカード/ビューカード会員規約リンク.md)
 - KONAMI
-  - [KONAMI ID 利用規約](KONAMI/KONAMI%20ID 利用規約.md)
+  - [KONAMI ID 利用規約](KONAMI/KONAMI%20ID%20利用規約.md)
   - [KONAMI 個人情報等の取扱いについて](KONAMI/KONAMI%20個人情報等の取扱いについて.md)
   - [KONAMI 個人情報等保護方針](KONAMI/KONAMI%20個人情報等保護方針.md)
   - [コナミカードゲームネットワーク利用規約](KONAMI/コナミカードゲームネットワーク利用規約.md)
@@ -57,7 +57,7 @@
 - LINE
   - [LINE Cashアカウント利用規約](LINE/LINE%20Cashアカウント利用規約.md)
   - [LINE Moneyアカウント利用規約](LINE/LINE%20Moneyアカウント利用規約.md)
-  - [LINE Pay プライバシー追加項目](LINE/LINE%20Pay プライバシー追加項目.md)
+  - [LINE Pay プライバシー追加項目](LINE/LINE%20Pay%20プライバシー追加項目.md)
   - [LINE Payクレジットカードサービス利用規約](LINE/LINE%20Payクレジットカードサービス利用規約.md)
   - [LINEお年玉](LINE/LINEお年玉.md)
   - [LINEグリーンウィーク](LINE/LINEグリーンウィーク.md)
@@ -65,7 +65,7 @@
 - NTT
   - [「Ｗｅｂビリング」ご利用規約](NTT/「Ｗｅｂビリング」ご利用規約.md)
   - docomo
-    - [arrows Be F-05Jご購入にあたっての注意事項](NTT/docomo/arrows%20Be F-05Jご購入にあたっての注意事項.md)
+    - [arrows Be F-05Jご購入にあたっての注意事項](NTT/docomo/arrows%20Be%20F-05Jご購入にあたっての注意事項.md)
     - [ご利用規約](NTT/docomo/ご利用規約.md)
     - [ずっとドコモ割プラス（dポイント進呈）選択オプションの注意事項](NTT/docomo/ずっとドコモ割プラス（dポイント進呈）選択オプションの注意事項.md)
     - [セキュリティコードによる認証について](NTT/docomo/セキュリティコードによる認証について.md)
@@ -92,7 +92,7 @@
       - [割賦販売契約約款](NTT/docomo/iPad Pro 10.5 64GB/割賦販売契約約款.md)
       - [月々サポート対象機種ご購入にあたっての注意事項](NTT/docomo/iPad Pro 10.5 64GB/月々サポート対象機種ご購入にあたっての注意事項.md)
   - dカード
-    - [Member's Menu特約（旧Member's ID特約）](NTT/dカード/Member's%20Menu特約（旧Member's ID特約）.md)
+    - [Member's Menu特約（旧Member's ID特約）](NTT/dカード/Member's%20Menu特約（旧Member's%20ID特約）.md)
     - [dカード　Apple Pay特約](NTT/dカード/dカード　Apple%20Pay特約.md)
 - SHARP
   - [Web修理サポート ご利用規約](SHARP/Web修理サポート%20ご利用規約.md)
@@ -141,7 +141,7 @@
   - [ご利用規約](bitFlyer/ご利用規約.md)
   - [どのような場合に「内部者」に該当しますか？](bitFlyer/どのような場合に「内部者」に該当しますか？.md)
   - [プライバシーポリシー](bitFlyer/プライバシーポリシー.md)
-  - [仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面](bitFlyer/仮想通貨交換業者に関する内閣府令第%2016 条および第 17 条に基づく説明書面.md)
+  - [仮想通貨交換業者に関する内閣府令第 16 条および第 17 条に基づく説明書面](bitFlyer/仮想通貨交換業者に関する内閣府令第%2016%20条および第%2017%20条に基づく説明書面.md)
   - [仮想通貨取引におけるリスク](bitFlyer/仮想通貨取引におけるリスク.md)
   - [仮想通貨取引説明書（契約締結前書面）](bitFlyer/仮想通貨取引説明書（契約締結前書面）.md)
   - [取引開始基準](bitFlyer/取引開始基準.md)
@@ -149,14 +149,14 @@
 - dポイント
   - [ポイントボーナスチケット利用規約](dポイント/ポイントボーナスチケット利用規約.md)
 - moneyforward
-  - [マネーフォワード ME プレミアムサービス利用規約](moneyforward/マネーフォワード%20ME プレミアムサービス利用規約.md)
+  - [マネーフォワード ME プレミアムサービス利用規約](moneyforward/マネーフォワード%20ME%20プレミアムサービス利用規約.md)
   - [特定商取引に関する法律に基づく表記](moneyforward/特定商取引に関する法律に基づく表記.md)
 - radiko.jp
   - [ユーザー規約・会員規約](radiko.jp/ユーザー規約・会員規約.md)
 - rakuten
   - [楽天ポイントカード利用規約](rakuten/楽天ポイントカード利用規約.md)
 - zaif
-  - [Zaif Exchange 利用規約](zaif/Zaif%20Exchange 利用規約.md)
+  - [Zaif Exchange 利用規約](zaif/Zaif%20Exchange%20利用規約.md)
   - [Zaif Payment加盟店利用規約](zaif/Zaif%20Payment加盟店利用規約.md)
   - [Zaifコイン積立について](zaif/Zaifコイン積立について.md)
   - [Zaif紹介プログラム 利用規約](zaif/Zaif紹介プログラム%20利用規約.md)
@@ -180,8 +180,8 @@
 - アークミール
   - [アークミール会員サイト　ご利用規約](アークミール/アークミール会員サイト　ご利用規約.md)
 - サントリー
-  - [サントリー伊右衛門 無料クーポンプレゼント！ ご利用規約](サントリー/サントリー伊右衛門%20無料クーポンプレゼント！ ご利用規約.md)
-  - [サントリー伊右衛門 無料クーポンプレゼント！ 個人情報の取り扱いについて](サントリー/サントリー伊右衛門%20無料クーポンプレゼント！ 個人情報の取り扱いについて.md)
+  - [サントリー伊右衛門 無料クーポンプレゼント！ ご利用規約](サントリー/サントリー伊右衛門%20無料クーポンプレゼント！%20ご利用規約.md)
+  - [サントリー伊右衛門 無料クーポンプレゼント！ 個人情報の取り扱いについて](サントリー/サントリー伊右衛門%20無料クーポンプレゼント！%20個人情報の取り扱いについて.md)
 - シネマシティ
   - [シネマシティWeb予約利用規約](シネマシティ/シネマシティWeb予約利用規約.md)
 - セゾンカード
